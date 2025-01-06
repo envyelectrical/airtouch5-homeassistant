@@ -1,5 +1,5 @@
 {
-  "domain": "airtouch5beta",
+  "domain": "airtouch5",
   "name": "AirTouch 5 Beta",
   "codeowners": ["@Poshy163", "@shaoqiming1028"],
   "config_flow": true,
